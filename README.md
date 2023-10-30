@@ -17,4 +17,6 @@ To ensure one of the Launch LEDs turns on when the push button is pressed and tu
 **Step 4**: If Switch1 is pressed, then turn ON the LED port.
 
 
+## Output
 
+[Video link](https://usfedu-my.sharepoint.com/:v:/g/personal/dobariya_usf_edu/EZkFUZ8iVK9GnPoRhrbSZ1IBSR6y5sJsfPVEViHaqwXO_w)
